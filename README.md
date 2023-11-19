@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @EyeInTheNet
 - 👀 I’m interested in the intersection of software and sustainability.
-- 🌱 I’m currently learning javascript and node.
 - 💞️ I’m looking to collaborate on consultancy related to my declared interests.
 - 📫 You may...
         reach me at gustavo.franchella@outlook.com |

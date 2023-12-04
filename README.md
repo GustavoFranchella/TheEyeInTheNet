@@ -1,4 +1,4 @@
-- Hi, I’m @EyeInTheNet
+- Hi, I’m @TheEyeInTheNet
 - I’m interested in the intersection of software and sustainability.
 - I’m looking to collaborate on consultancy related to my declared interests.
 - You may...

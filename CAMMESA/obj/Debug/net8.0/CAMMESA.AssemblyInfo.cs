@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CAMMESA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3a245bd5b766486c87e2b641f7146fa749a2a4c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7230cf60bd47d584568695be5d98476406db0521")]
 [assembly: System.Reflection.AssemblyProductAttribute("CAMMESA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CAMMESA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -47,7 +47,7 @@ try
         string formattedDate = date.ToString("yyyy-MM-dd HH:mm:ss");
 
         
-        Console.WriteLine ("Fecha y hora " + formattedDate + " Intensidad de carbono últimos 5 minutos" + Math.Round(carbonIntensity, 3) + " (No incluye importación)");
+        Console.WriteLine ("Fecha y hora: " + formattedDate + " | Intensidad de carbono últimos 5 minutos: " + Math.Round(carbonIntensity, 3) + " (No incluye importación)");
     // End of new code
     }
     else

@@ -1,0 +1,63 @@
+
+```cpp
+#include <iostream>
+#include <string>
+#include <vector>
+#include <ctime>
+#include <iomanip>
+#include <cmath>
+
+// Define a struct to hold data
+struct Data {
+    std::string fecha;
+    double termico;
+    double sumTotal;
+    double importacion;
+};
+
+int main() {
+    // Simulate the response content (replace with actual data)
+    std::string content = R"({
+        "data": [
+            {
+                "fecha": "2024-02-12T14:00:00.000Z",
+                "termico": 100.0,
+                "sumTotal": 200.0,
+                "importacion": 50.0
+            }
+        ]
+    })";
+
+    // Deserialize the JSON into a vector of Data objects
+    std::vector<Data> dataArray;
+    // Parse the input string (you can use a JSON library for this)
+    // ...
+
+    // Get the last element (assuming the vector is not empty)
+    Data lastElement = dataArray.back();
+    double carbonIntensity = lastElement.termico / (lastElement.sumTotal - lastElement.importacion);
+
+    // Parse the input string as a time
+    std::tm date = {};
+    std::istringstream ss(lastElement.fecha);
+    ss >> std::get_time(&date, "%Y-%m-%dT%H:%M:%S");
+    std::ostringstream formattedDate;
+    formattedDate << std::put_time(&date, "%Y-%m-%d %H:%M:%S");
+
+    // Print the result
+    std::cout << "Fecha y hora " << formattedDate.str() << " Intensidad de carbono "
+              << std::fixed << std::setprecision(3) << carbonIntensity << " (No incluye importación)\n";
+
+    return 0;
+}
+```
+
+Please note that you'll need to replace the simulated response content with actual data from your API. Additionally, you'll need to use a JSON library (such as `nlohmann/json` or `RapidJSON`) to parse the input string and handle the deserialization process.
+
+Feel free to adapt this code to your specific requirements! 😊
+
+Source: Conversation with Bing, 12/02/2024
+(1) how to convert C# to C++ - Stack Overflow. https://stackoverflow.com/questions/4651249/how-to-convert-c-sharp-to-c.
+(2) CodeConvert AI - Convert code with a click of a button. https://www.codeconvert.ai/csharp-to-c++-converter.
+(3) windows - Free tools for converting C# to C++ - Software .... https://softwarerecs.stackexchange.com/questions/81770/free-tools-for-converting-c-to-c.
+(4) undefined. http://www.xxx.asp.

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tMjIkGYKvsGfuwPo/VN9zGIQGrTw/iKu/fa6OxJ5iRbUrr0flV9rpvMeJO1p2ROktu3t6Kglae3TWu4ScIF87w==",
+  "success": true,
+  "projectFilePath": "D:\\EyeInTheNet\\CAMMESA\\CAMMESA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gustao\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

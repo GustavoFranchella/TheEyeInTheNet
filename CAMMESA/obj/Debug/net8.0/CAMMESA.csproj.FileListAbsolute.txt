@@ -1,0 +1,17 @@
+D:\CAMMESA\bin\Debug\net8.0\CAMMESA.exe
+D:\CAMMESA\bin\Debug\net8.0\CAMMESA.deps.json
+D:\CAMMESA\bin\Debug\net8.0\CAMMESA.runtimeconfig.json
+D:\CAMMESA\bin\Debug\net8.0\CAMMESA.dll
+D:\CAMMESA\bin\Debug\net8.0\CAMMESA.pdb
+D:\CAMMESA\obj\Debug\net8.0\CAMMESA.GeneratedMSBuildEditorConfig.editorconfig
+D:\CAMMESA\obj\Debug\net8.0\CAMMESA.AssemblyInfoInputs.cache
+D:\CAMMESA\obj\Debug\net8.0\CAMMESA.AssemblyInfo.cs
+D:\CAMMESA\obj\Debug\net8.0\CAMMESA.csproj.CoreCompileInputs.cache
+D:\CAMMESA\obj\Debug\net8.0\CAMMESA.dll
+D:\CAMMESA\obj\Debug\net8.0\refint\CAMMESA.dll
+D:\CAMMESA\obj\Debug\net8.0\CAMMESA.pdb
+D:\CAMMESA\obj\Debug\net8.0\CAMMESA.genruntimeconfig.cache
+D:\CAMMESA\obj\Debug\net8.0\ref\CAMMESA.dll
+D:\CAMMESA\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\CAMMESA\obj\Debug\net8.0\CAMMESA.csproj.AssemblyReference.cache
+D:\CAMMESA\obj\Debug\net8.0\CAMMESA.csproj.CopyComplete

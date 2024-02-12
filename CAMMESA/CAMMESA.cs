@@ -17,7 +17,7 @@ try
     client.DefaultRequestHeaders.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/json"));
 
     // Define the id_region parameter
-    int id_region = 1002; // Example value for the Total del SADI
+    int id_region = 1002; // Example value for Total del SADI
 
     // Build the request URL with the parameter
     string requestUrl = $"generacion/ObtieneGeneracioEnergiaPorRegion?id_region={id_region}";
